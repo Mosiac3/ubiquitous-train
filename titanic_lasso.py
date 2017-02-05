@@ -2,11 +2,8 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-import xgboost as xgb
 
-from sklearn.linear_model import LassoCV
 from sklearn.model_selection import cross_val_score
-from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 
 # import data
