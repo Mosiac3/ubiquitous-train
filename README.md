@@ -1,2 +1,2 @@
 # ubiquitous-train
-First Kaggle competition
+Kaggle competitions
